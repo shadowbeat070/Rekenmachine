@@ -42,6 +42,7 @@ public class JavaFXApp extends Application {
     }
 
     private void compute (String operator) {
+        //
 
         int result;
         int number1 = getNumberFromTextField (txtNumber1);
